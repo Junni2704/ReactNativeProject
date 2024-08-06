@@ -29,7 +29,7 @@ const SignupScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Image source={require('../assets/icon.png')} style={styles.image} />
+      <Image source={require('../assets/logo-expense.png')} style={styles.image} />
       <Text style={styles.title}>ExpenseLy</Text>
       <TextInput
         style={styles.input}
